@@ -2,7 +2,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:collazokel19@gmail.com)
 [![Resume](https://img.shields.io/badge/RESUME-important?style=for-the-badge)](./file:///home/santacoll_/Downloads/Resume%20Kelvin%20A.%20Santana%20Collazo.pdf)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)] (https://www.linkedin.com/in/kelvin-santana-46538627b/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/kelvin-santana-46538627b/)]
 
 ![Views](https://komarev.com/ghpvc/?username=santacoll19&style=for-the-badge)
 
