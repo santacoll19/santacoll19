@@ -1,16 +1,19 @@
 # Hi there, I'm Kelvin A. Santana Collazo
 
+https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:collazokel19@gmail.com)
 [![Resume](https://img.shields.io/badge/RESUME-important?style=for-the-badge)](./file:///home/santacoll_/Downloads/Resume%20Kelvin%20A.%20Santana%20Collazo.pdf)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=whitehttps://www.linkedin.com/in/kelvin-santana-46538627b/)]
 
-![Views](https://komarev.com/ghpvc/?username=santacoll19&style=for-the-badge)
-
 ## About Me
 
 - :nerd_face: Full Stack Softwer Engineer student from Holberton Coding School.
+  :dizzy:Fun Fact: I enjoy the food and animes/cartoons.
+  https://giphy.com/gifs/pokemon-squirtle-squad-eSwGh3YK54JKU
 
 ## Languages
+
+https://giphy.com/gifs/scaler-official-dogs-computer-typing-Dh5q0sShxgp13DwrvG
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -57,3 +60,4 @@
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=jhonaRiver&show_icons=true&locale=en&layout=compact&theme=radical)
 ![Stats](https://github-readme-stats.vercel.app/api?username=santacoll19&show_icons=true&theme=radical)
+https://giphy.com/gifs/the-it-crowd-11kEuHSQAXXiGQ
