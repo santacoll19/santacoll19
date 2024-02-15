@@ -6,14 +6,14 @@
 [![Resume](https://img.shields.io/badge/RESUME-important?style=for-the-badge)](./file:///home/santacoll_/Downloads/Resume%20Kelvin%20A.%20Santana%20Collazo.pdf)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=whitehttps://www.linkedin.com/in/kelvin-santana-46538627b/)]
 
-## About Me
+## 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮
 
 :nerd_face: Full Stack Softwer Engineer student from Holberton Coding School.
 :dizzy:Fun Fact: I enjoy the food and animes/cartoons.
 
 ![giphy (2)](https://github.com/santacoll19/santacoll19/assets/134426899/d8812974-4ad7-4340-a821-cba80ab85896)
 
-## Languages
+## 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -26,7 +26,7 @@
 
 ![giphy (3)](https://github.com/santacoll19/santacoll19/assets/134426899/cfc5bd41-557b-41e2-a880-743f0334611b)
 
-## Frameworks, Platforms and Libraries
+## 𝓕𝓻𝓪𝓶𝓮𝔀𝓸𝓻𝓴𝓼, 𝓟𝓵𝓪𝓽𝓯𝓸𝓻𝓶𝓼 𝓪𝓷𝓭 𝓛𝓲𝓫𝓻𝓪𝓻𝓲𝓮𝓼
 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
@@ -36,13 +36,13 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## Databases
+## 𝓓𝓪𝓽𝓪𝓫𝓪𝓼𝓮𝓼
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Most used Repositories
+### 𝓜𝓸𝓼𝓽 𝓾𝓼𝓮𝓭 𝓡𝓮𝓹𝓸𝓼𝓲𝓽𝓸𝓻𝓲𝓮𝓼
 
 | Repository | Description |
 | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | |
@@ -50,7 +50,7 @@
 | [holbertonschool-low_level_programming](https://github.com/santacoll19/holbertonschool-low_level_programming) | Low-Level Programming is a programming language that provides little or no abstraction from a computer's instruction set architecture—commands or functions in the language map that are structurally similar to processor's instructions. Generally, this refers to either machine code or assembly language. Because of the low abstraction between the language and machine language, low-level languages are sometimes described as being "close to the hardware". Programs written in low-level languages tend to be relatively non-portable, due to being optimized for a certain type of system architecture |
 |
 
-### Major projects worked on at school
+### 𝓜𝓪𝓳𝓸𝓻 𝓹𝓻𝓸𝓳𝓮𝓬𝓽𝓼 𝔀𝓸𝓻𝓴𝓮𝓭 𝓸𝓷 𝓪𝓽 𝓼𝓬𝓱𝓸𝓸𝓵
 
 | Project name                                                                      | Description                                                                                                                                                                                                                                                    |
 | --------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
