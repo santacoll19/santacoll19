@@ -1,14 +1,17 @@
 # Hi there, I'm Kelvin A. Santana Collazo
 
 ![giphy (1)](https://github.com/santacoll19/santacoll19/assets/134426899/f91a0920-a329-49b4-999c-6795d652a6df)
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:collazokel19@gmail.com)
 [![Resume](https://img.shields.io/badge/RESUME-important?style=for-the-badge)](./file:///home/santacoll_/Downloads/Resume%20Kelvin%20A.%20Santana%20Collazo.pdf)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=whitehttps://www.linkedin.com/in/kelvin-santana-46538627b/)]
 
 ## About Me
 
-- :nerd_face: Full Stack Softwer Engineer student from Holberton Coding School.
-  :dizzy:Fun Fact: I enjoy the food and animes/cartoons.
+:nerd_face: Full Stack Softwer Engineer student from Holberton Coding School.
+:dizzy:Fun Fact: I enjoy the food and animes/cartoons.
+
+![giphy (2)](https://github.com/santacoll19/santacoll19/assets/134426899/d8812974-4ad7-4340-a821-cba80ab85896)
 
 ## Languages
 
@@ -20,6 +23,8 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+![giphy (3)](https://github.com/santacoll19/santacoll19/assets/134426899/cfc5bd41-557b-41e2-a880-743f0334611b)
 
 ## Frameworks, Platforms and Libraries
 
