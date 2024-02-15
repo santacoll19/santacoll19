@@ -12,6 +12,10 @@
 
 ##
 
+:tumbler_glass::beer::wine_glass::tropical_drink: Bartender/Mixologist
+
+##
+
 :dizzy:Fun Fact: I enjoy the food and animes/cartoons.
 
 ![giphy (2)](https://github.com/santacoll19/santacoll19/assets/134426899/d8812974-4ad7-4340-a821-cba80ab85896)
