@@ -1,5 +1,6 @@
 # Hi there, I'm Kelvin A. Santana Collazo
 
+![giphy (1)](https://github.com/santacoll19/santacoll19/assets/134426899/f91a0920-a329-49b4-999c-6795d652a6df)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:collazokel19@gmail.com)
 [![Resume](https://img.shields.io/badge/RESUME-important?style=for-the-badge)](./file:///home/santacoll_/Downloads/Resume%20Kelvin%20A.%20Santana%20Collazo.pdf)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=whitehttps://www.linkedin.com/in/kelvin-santana-46538627b/)]
