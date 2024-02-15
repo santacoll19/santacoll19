@@ -9,6 +9,9 @@
 ## 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮
 
 :nerd_face: Full Stack Softwer Engineer student from Holberton Coding School.
+
+##
+
 :dizzy:Fun Fact: I enjoy the food and animes/cartoons.
 
 ![giphy (2)](https://github.com/santacoll19/santacoll19/assets/134426899/d8812974-4ad7-4340-a821-cba80ab85896)
@@ -23,8 +26,6 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-![giphy (3)](https://github.com/santacoll19/santacoll19/assets/134426899/cfc5bd41-557b-41e2-a880-743f0334611b)
 
 ## 𝓕𝓻𝓪𝓶𝓮𝔀𝓸𝓻𝓴𝓼, 𝓟𝓵𝓪𝓽𝓯𝓸𝓻𝓶𝓼 𝓪𝓷𝓭 𝓛𝓲𝓫𝓻𝓪𝓻𝓲𝓮𝓼
 
